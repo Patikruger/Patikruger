@@ -24,4 +24,7 @@
   <img align="180cm" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=patikruger&layout=compact&lang_count=16&theme=dracula"/>
 
 </div>
+
+  ![snake gif](https://github.com/patikruger/patikruger/blob/output/github-contribution-grid-snake.svg)
+
   
