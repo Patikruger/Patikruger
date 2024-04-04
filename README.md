@@ -19,7 +19,7 @@
 </div>
 
 <div> 
- <a href="https://github.com/patikruger">
+ <a href="https://github.com/Patikruger">
    <img align="180cm" src= "https://github-readme-stats.vercel.app/api?username=patikruger&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=synthwave" />
   <img align="180cm" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=patikruger&layout=compact&lang_count=16&theme=dracula"/>
 
